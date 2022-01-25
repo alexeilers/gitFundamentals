@@ -17,4 +17,4 @@ For more information, view the [first time git setup](https://git-scm.com/en/v2/
 
 ---
 
-[Back to home](../README.MD)
+[Back to home](../main/README.MD)
