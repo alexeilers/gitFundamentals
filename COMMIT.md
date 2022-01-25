@@ -1,4 +1,4 @@
-#Git Commit
+# git commit
 
 The command `git commit` will take all tracked changes (items added with [git add](./ADD.md)) and package them up in what is called a commit.
 
