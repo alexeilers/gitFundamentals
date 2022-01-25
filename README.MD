@@ -6,14 +6,14 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commands
 - [git config](../main/CONFIG.md)
-- [git init](./commands/INIT.md)
-- [git add](./commands/ADD.md)
-- [git commit](./commands/COMMIT.md)
-- [git remote](./commands/REMOTE.md)
-- [git push](./commands/PUSH.md)
-- [git pull](./commands/PULL.md)
-- [git status](./commands/STATUS.md)
-- [git clone](./commands/CLONE.md)
+- [git init](../main/INIT.md)
+- [git add](../main/ADD.md)
+- [git commit](../main/COMMIT.md)
+- [git remote](../main/REMOTE.md)
+- [git push](../main/PUSH.md)
+- [git pull](../main/PULL.md)
+- [git status](../main/STATUS.md)
+- [git clone](../main/CLONE.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
