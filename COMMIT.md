@@ -8,7 +8,7 @@ A commit message _can_ be anything,but best practice dictates that you should us
 
 For example, if we have an application we're working on where we just build out the ability to register new accounts, then you might have some variation of the following:
 
-``
+```
 git add .
 git commit -m "Added register functionality"
 ```
